@@ -8,12 +8,12 @@ import random
 
 
 print("=" * 55)
-print("             🤖 WELCOME TO RULEBOT AI")
+print("WELCOME TO RULEBOT AI")
 print("=" * 55)
 
 name = input("Bot: Hello! What is your name? ")
 
-print(f"\nBot: Nice to meet you, {name}! 😊")
+print(f"\nBot: Nice to meet you, {name}!")
 print("Bot: I am RuleBot AI, a simple rule-based chatbot.")
 print("Bot: Please choose an option below.\n")
 
@@ -74,7 +74,7 @@ while True:
     if user == "1" or user in ["hello", "hi", "hey"]:
 
         greetings = [
-            f"Hello {name}! 😊",
+            f"Hello {name}! ",
             f"Hi {name}! How can I help you?",
             f"Nice to see you again {name}!"
         ]
@@ -216,7 +216,7 @@ while True:
     # Option 14 Exit
     elif user == "14" or user in ["bye", "exit", "quit"]:
 
-        print(f"\nBot: Goodbye {name}! 👋")
+        print(f"\nBot: Goodbye {name}!")
         print(f"Bot: Total messages: {message_count}")
         break
 
