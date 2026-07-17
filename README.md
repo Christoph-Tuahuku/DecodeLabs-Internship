@@ -1,6 +1,6 @@
-# 🤖 Project 1: RuleBot AI Chatbot
+#  Project 1: RuleBot AI Chatbot
 
-## 📌 Project Overview
+##  Project Overview
 
 RuleBot AI is a simple **rule-based artificial intelligence chatbot** developed using Python.
 
@@ -10,7 +10,7 @@ This project was developed as part of the **DecodeLabs AI Internship** to demons
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The main objectives of this project are:
 
@@ -22,16 +22,16 @@ The main objectives of this project are:
 
 ---
 
-# ✨ Features
+#  Features
 
-## 💬 Conversation Features
+##  Conversation Features
 
 - Personalized greeting using the user's name
 - Interactive conversation loop
 - Greeting responses
 - Exit commands
 
-## 🧠 AI Capabilities
+##  AI Capabilities
 
 - Rule-based response system
 - Keyword recognition
@@ -52,7 +52,7 @@ The main objectives of this project are:
 
 ---
 
-# 🚀 Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -63,4 +63,4 @@ The main objectives of this project are:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
